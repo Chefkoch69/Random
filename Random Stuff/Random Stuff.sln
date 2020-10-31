@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Massdm", "Massdm\Massdm.csproj", "{94F30D4F-6000-4AD8-9BF2-B1401A2ACFFE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordServerNuker", "DiscordServerNuker\DiscordServerNuker.csproj", "{36A7852B-DCA6-4416-867F-72801D014EF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{94F30D4F-6000-4AD8-9BF2-B1401A2ACFFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{94F30D4F-6000-4AD8-9BF2-B1401A2ACFFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{94F30D4F-6000-4AD8-9BF2-B1401A2ACFFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{94F30D4F-6000-4AD8-9BF2-B1401A2ACFFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36A7852B-DCA6-4416-867F-72801D014EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A7852B-DCA6-4416-867F-72801D014EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A7852B-DCA6-4416-867F-72801D014EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A7852B-DCA6-4416-867F-72801D014EF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

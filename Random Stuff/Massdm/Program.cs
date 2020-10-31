@@ -1,4 +1,5 @@
-﻿using Discord.Gateway;
+﻿using Discord;
+using Discord.Gateway;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -34,7 +35,7 @@ namespace Massdm
 
             foreach(var idk in client.GetGuildMembers(Convert.ToUInt64(guild)))
             {
-                
+
             }
 
 

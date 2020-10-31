@@ -1,0 +1,14 @@
+C:\Users\simon\Desktop\Random Stuff\Random Stuff\DiscordServerNuker\bin\Debug\DiscordServerNuker.exe.config
+C:\Users\simon\Desktop\Random Stuff\Random Stuff\DiscordServerNuker\bin\Debug\DiscordServerNuker.exe
+C:\Users\simon\Desktop\Random Stuff\Random Stuff\DiscordServerNuker\bin\Debug\DiscordServerNuker.pdb
+C:\Users\simon\Desktop\Random Stuff\Random Stuff\DiscordServerNuker\bin\Debug\Anarchy.dll
+C:\Users\simon\Desktop\Random Stuff\Random Stuff\DiscordServerNuker\bin\Debug\Leaf.xNet.dll
+C:\Users\simon\Desktop\Random Stuff\Random Stuff\DiscordServerNuker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\simon\Desktop\Random Stuff\Random Stuff\DiscordServerNuker\bin\Debug\websocket-sharp.dll
+C:\Users\simon\Desktop\Random Stuff\Random Stuff\DiscordServerNuker\bin\Debug\Leaf.xNet.xml
+C:\Users\simon\Desktop\Random Stuff\Random Stuff\DiscordServerNuker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\simon\Desktop\Random Stuff\Random Stuff\DiscordServerNuker\obj\Debug\DiscordServerNuker.csprojAssemblyReference.cache
+C:\Users\simon\Desktop\Random Stuff\Random Stuff\DiscordServerNuker\obj\Debug\DiscordServerNuker.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\Random Stuff\Random Stuff\DiscordServerNuker\obj\Debug\DiscordServerNuker.csproj.CopyComplete
+C:\Users\simon\Desktop\Random Stuff\Random Stuff\DiscordServerNuker\obj\Debug\DiscordServerNuker.exe
+C:\Users\simon\Desktop\Random Stuff\Random Stuff\DiscordServerNuker\obj\Debug\DiscordServerNuker.pdb
